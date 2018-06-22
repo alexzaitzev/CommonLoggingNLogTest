@@ -1,0 +1,8 @@
+D:\Projects\CommonLoggingTest\CommonLoggingTest\bin\Debug\netcoreapp2.0\CommonLoggingTest.deps.json
+D:\Projects\CommonLoggingTest\CommonLoggingTest\bin\Debug\netcoreapp2.0\CommonLoggingTest.runtimeconfig.json
+D:\Projects\CommonLoggingTest\CommonLoggingTest\bin\Debug\netcoreapp2.0\CommonLoggingTest.runtimeconfig.dev.json
+D:\Projects\CommonLoggingTest\CommonLoggingTest\bin\Debug\netcoreapp2.0\CommonLoggingTest.dll
+D:\Projects\CommonLoggingTest\CommonLoggingTest\obj\Debug\netcoreapp2.0\CommonLoggingTest.csprojAssemblyReference.cache
+D:\Projects\CommonLoggingTest\CommonLoggingTest\obj\Debug\netcoreapp2.0\CommonLoggingTest.csproj.CoreCompileInputs.cache
+D:\Projects\CommonLoggingTest\CommonLoggingTest\obj\Debug\netcoreapp2.0\CommonLoggingTest.AssemblyInfoInputs.cache
+D:\Projects\CommonLoggingTest\CommonLoggingTest\obj\Debug\netcoreapp2.0\CommonLoggingTest.AssemblyInfo.cs
